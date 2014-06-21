@@ -1,4 +1,4 @@
-package com.wtg.reiza.wzp;
+package com.wtg.reiza.wz;
 
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
